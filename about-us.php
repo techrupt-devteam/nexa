@@ -8,10 +8,10 @@ $title="SEVA Automotive | Maruti Suzuki NEXA Showroom in Nashik, Nagpur, Nanded"
 
 <?php 
 
- $pgDesc="Seva Automotive start the journey in 1985 with Iconic Maruti 800 grows to Maruti Suzuki NEXA Car Showroom in Nashik, Nagpur, Nanded with Nexa Service Centers";
+ $pgDesc="Seva Automotive start the journey in 1985 with Iconic Maruti 800 grows to Maruti Suzuki NEXA Car Showroom in Nashik, Nagpur, Nanded with NEXA Service Centers";
 
  $pgKeywords="Baleno, Baleno Price, Baleno Car, Xl6, S cross, 
- ciaz, baleno car price, ignis, maruti suzuki Baleno, Maruti Suzuki Xl6, NEXA, maruti suzuki xl6, Maruti XL6, baleno on road price, maruti xl6, maruti baleno, s cross price, Nexa Cars, ciaz car, ciaz price, maruti ignis, maruti suzuki ciaz, nexa xl6, ignis price, maruti ciaz, maruti suzuki ignis, nexa baleno, maruti s cross, Nexa Cars, Maruti Suzuki NEXA, Nashik, Nagpur, Nanded, NEXA, Maruti Nexa, Nexa Car, Maruti Nexa, Suzuki Nexa, nexa showroom, nexa showroom near me, nexa car price, nexa new car, nexa price, nexa experience, nexa near me, maruti nexa price, maruti nexa cars, maruti nexa showroom near me";
+ ciaz, baleno car price, ignis, maruti suzuki Baleno, Maruti Suzuki Xl6, NEXA, maruti suzuki xl6, Maruti XL6, baleno on road price, maruti xl6, maruti baleno, s cross price, NEXA Cars, ciaz car, ciaz price, maruti ignis, maruti suzuki ciaz, NEXA xl6, ignis price, maruti ciaz, maruti suzuki ignis, NEXA baleno, maruti s cross, NEXA Cars, Maruti Suzuki NEXA, Nashik, Nagpur, Nanded, NEXA, Maruti NEXA, NEXA Car, Maruti NEXA, Suzuki NEXA, NEXA showroom, NEXA showroom near me, NEXA car price, NEXA new car, NEXA price, NEXA experience, NEXA near me, maruti NEXA price, maruti NEXA cars, maruti NEXA showroom near me";
 
  include 'header.php'; 
 
@@ -31,7 +31,7 @@ $title="SEVA Automotive | Maruti Suzuki NEXA Showroom in Nashik, Nagpur, Nanded"
 
 </div>
 
-  <div class="container">
+  <div class="container text-center">
 
   <div class="my-5"><h2 class="innerpageHeading">About Us</h2>
 

@@ -1,9 +1,9 @@
 <?php    
 $title="Booking Online | Maruti Suzuki NEXA Car Showroom in Nashik, Nagpur, Nanded | SEVA";  
 
- $pgDesc="Book A Car Online from SEVA Maruti Suzuki NEXA Car Showroom in Nashik, Nagpur, Nanded. Booking Online, Nexa Cars s cross, XL6, Ciaz, Ignis & Baleno is easy";
+ $pgDesc="Book A Car Online from SEVA Maruti Suzuki NEXA Car Showroom in Nashik, Nagpur, Nanded. Booking Online, NEXA Cars s cross, XL6, Ciaz, Ignis & Baleno is easy";
  $pgKeywords="Baleno, Baleno Price, Baleno Car, Xl6, S cross, 
- ciaz, baleno car price, ignis, maruti suzuki Baleno, Maruti Suzuki Xl6, NEXA, maruti suzuki xl6, Maruti XL6, baleno on road price, maruti xl6, maruti baleno, s cross price, Nexa Cars, ciaz car, ciaz price, maruti ignis, maruti suzuki ciaz, nexa xl6, ignis price, maruti ciaz, maruti suzuki ignis, nexa baleno, maruti s cross, Maruti Suzuki NEXA, Nashik, Nagpur, Nanded, Booking Online, Book a Car Online, Online Booking";
+ ciaz, baleno car price, ignis, maruti suzuki Baleno, Maruti Suzuki Xl6, NEXA, maruti suzuki xl6, Maruti XL6, baleno on road price, maruti xl6, maruti baleno, s cross price, NEXA Cars, ciaz car, ciaz price, maruti ignis, maruti suzuki ciaz, NEXA xl6, ignis price, maruti ciaz, maruti suzuki ignis, NEXA baleno, maruti s cross, Maruti Suzuki NEXA, Nashik, Nagpur, Nanded, Booking Online, Book a Car Online, Online Booking";
  include 'header.php'; 
 
 

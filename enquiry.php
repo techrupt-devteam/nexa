@@ -12,16 +12,15 @@ $title="Enquiry Car Quote | Maruti Suzuki NEXA Showroom in Nashik, Nagpur, Nande
 
 <main>
 
-  <div class="container"> <h2 class="innerpageHeading mt-5">Enquiry</h2>
+  <div class="container"> 
   <div class="my-5">
-  
+    <h2 class="innerpageHeading mt-5 text-center">Enquiry</h2>
   
     
   <div class="formsection">
     <form action="send_mail_enquiry.php" method="post" data-parsley-validate="parsley">
-    <div class="my-4"><h5>Your Details</h5></div>
-  <div class="form-row">
    
+  <div class="row">
     <div class="form-group col-md-4">
     <label for="inputAddress2">Full Name  <span class="parsley-required" style="color:red">*</span></label>
      <input type="text" class="form-control" name="full_name" id="inputAddress" placeholder="Full your Name" required="true" data-parsley-required-message="Please Enter Name"  data-parsley-pattern="^[a-zA-Z.,/ $()]+$" data-parsley-pattern-message="Name should be in text only">
@@ -42,7 +41,7 @@ $title="Enquiry Car Quote | Maruti Suzuki NEXA Showroom in Nashik, Nagpur, Nande
     <option value="Nashik">Nashik</option>
     </select>
   </div>
-    <div class="form-group col-md-4">
+    <div class="form-group col-md-8">
     <label for="inputAddress2">Description</label>
   <textarea class="form-control" name="desc" aria-label="With textarea"></textarea>
     </div>
@@ -52,7 +51,7 @@ $title="Enquiry Car Quote | Maruti Suzuki NEXA Showroom in Nashik, Nagpur, Nande
                     I agree <a href="disclaimer.php" style="color: blue">Terms and Conditions.</a> by clicking the ‘Continue’ button below and I am explicitly soliciting a call from Seva Maruti. Or its partners on my ‘Mobile’.</p>
           </div>
           
-        <input type="submit" name="submit" class ="button button-purple button-180 triggerBookAShowRoomVisitButton" value="Submit">
+        <button type="submit" name="submit" class ="new-button triggerBookAShowRoomVisitButton" value="Submit"><span> Submit </span></button>
 </form>
     </div>
 </div>

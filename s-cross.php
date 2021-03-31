@@ -7,7 +7,7 @@ $title="S-Cross | Maruti Suzuki NEXA Showroom in Nashik, Nagpur, Nanded | SEVA";
 
  $pgDesc="Check New Maruti Suzuki S-Cross Price at SEVA Maruti Suzuki NEXA Car Showroom in Nashik, Nagpur, Nanded. Maruti Suzuki Nexa S Cross Car Price, Mileage, Images and More";
 
- $pgKeywords="nexa s cross, S cross, s cross price, suzuki s cross, maruti s cross, s cross car, s cross petrol, s cross on road price, s cross maruti suzuki, s cross 2020, Nexa Cars, Maruti Suzuki NEXA, Nashik, Nagpur, Nanded, NEXA, Maruti Nexa, Nexa Car, Maruti Nexa, Suzuki Nexa, nexa showroom, nexa showroom near me, nexa car price, nexa new car, nexa price, nexa experience, nexa near me, maruti nexa price, maruti nexa cars, maruti nexa showroom near me";
+ $pgKeywords="NEXA s cross, S cross, s cross price, suzuki s cross, maruti s cross, s cross car, s cross petrol, s cross on road price, s cross maruti suzuki, s cross 2020, Nexa Cars, Maruti Suzuki NEXA, Nashik, Nagpur, Nanded, NEXA, Maruti Nexa, Nexa Car, Maruti Nexa, Suzuki Nexa, NEXA showroom, NEXA showroom near me, NEXA car price, NEXA new car, NEXA price, NEXA experience, NEXA near me, maruti NEXA price, maruti NEXA cars, maruti NEXA showroom near me";
 
  include 'header.php'; 
 

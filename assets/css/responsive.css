@@ -13,7 +13,10 @@
 .three60view .three60view-content{ transform: translate(-12%,-22%);}
 .performance h2, .performance2 h2, .spcification2 h2{ margin:0px 0 20px}
 .footer-banner2 .caption{ top:20%; right:15%}
-.menu > ul > li > ul > li { width:18.2%}
+.menu > ul > li > ul > li { 
+    width: 19.2%;
+    margin: 0px 5px;
+}
 .menu > ul > li a{ padding:1.5em 2em;}
 .menu > ul > li .trueValuelogo, .menu > ul > li .sevaLogo{ padding:0.5em 1em}
 .value-addded-service .value-added-image { height: 270px;}
@@ -33,7 +36,7 @@
 .three60view .three60view-content{ transform: translate(-12%,-22%);}
 .performance h2, .performance2 h2, .spcification2 h2{ margin:0px 0 20px}
 .footer-banner2 .caption{ top:20%; right:15%}
-.menu > ul > li > ul > li {  width: 19.2%; margin: 0 4px;}
+.menu > ul > li > ul > li {  width: 19.2%; margin: 0 5px;}
 .value-addded-service .value-added-image:after { width: 93% }
 
 }
@@ -188,8 +191,18 @@ footer .footer-links h4{ margin-bottom:1rem}
 .menu-mobile{ padding:10px;}
 footer .footer-newletter h2{ font-size:26px;}
 footer .footer-newletter .pl-5{ padding-left:1rem!important}
-footer .mainlinks{ padding:3rem 0 3rem 1rem; border-right:none; border-left:none; border-top:1px solid #282a29; border-bottom:1px solid #282a29}
-footer .podcast-section, footer .social-media{  padding:1.5rem 0 3rem 1rem;}
+footer .mainlinks{ padding:2rem 0 1rem 0rem; border-right:none; border-left:none; }
+footer .podcast-section, footer .social-media{  padding:1rem 0 3rem 1rem;}
+.schdule_section .nav-tabs > li > a {
+    text-transform: capitalize;
+    font-size: 14px;
+    padding: 0 13px;
+    line-height: 50px;
+    min-width: 140px;
+}
+.schdule_section .nav-tabs{
+    border-bottom-width: 4px;
+}
 footer .footer-links h4{ margin-bottom:1rem}
 footer .mainlinks ul{ margin-bottom:15px;}
 footer .mainlinks ul li{ margin-bottom: 14px;}

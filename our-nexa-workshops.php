@@ -8,10 +8,10 @@ $title="Maruti Suzuki NEXA Service Center in Nashik, Nagpur, Nanded | SEVA";
 
 <?php 
 
- $pgDesc="Authorised SEVA Maruti Suzuki NEXA Car Service Center in Nashik, Nagpur, Nanded. Perfect place for your Nexa Cars s cross, XL6, Ciaz, Ignis & Baleno.";
+ $pgDesc="Authorised SEVA Maruti Suzuki NEXA Car Service Center in Nashik, Nagpur, Nanded. Perfect place for your NEXA Cars s cross, XL6, Ciaz, Ignis & Baleno.";
 
  $pgKeywords="Baleno, Baleno Price, Baleno Car, Xl6, S cross, 
- ciaz, baleno car price, ignis, maruti suzuki Baleno, Maruti Suzuki Xl6, NEXA, maruti suzuki xl6, Maruti XL6, baleno on road price, maruti xl6, maruti baleno, s cross price, Nexa Cars, ciaz car, ciaz price, maruti ignis, maruti suzuki ciaz, nexa xl6, ignis price, maruti ciaz, maruti suzuki ignis, nexa baleno, maruti s cross, Maruti Suzuki NEXA, Nashik, Nagpur, Nanded, Nexa Service Center, Nexa Service Station";
+ ciaz, baleno car price, ignis, maruti suzuki Baleno, Maruti Suzuki Xl6, NEXA, maruti suzuki xl6, Maruti XL6, baleno on road price, maruti xl6, maruti baleno, s cross price, NEXA Cars, ciaz car, ciaz price, maruti ignis, maruti suzuki ciaz, nexa xl6, ignis price, maruti ciaz, maruti suzuki ignis, NEXA baleno, maruti s cross, Maruti Suzuki NEXA, Nashik, Nagpur, Nanded, NEXA Service Center, NEXA Service Station";
 
  include 'header.php'; 
 
@@ -25,7 +25,7 @@ $title="Maruti Suzuki NEXA Service Center in Nashik, Nagpur, Nanded | SEVA";
 
   <div class="container">
 
-  <div class="my-5"><h2 class="innerpageHeading">Nexa Workshops </h2></div>
+  <div class="my-5"><h2 class="innerpageHeading">NEXA Workshops </h2></div>
 
 	<div class="row">
 
@@ -33,82 +33,125 @@ $title="Maruti Suzuki NEXA Service Center in Nashik, Nagpur, Nanded | SEVA";
 
     
 
-    <div class="col-sm-12 col-md-6 col-lg-6">
-
-    <h4>Nashik</h4>
-
-    <img src="assets/images/nexa-nasik-serive-center.jpg" class="resposive-img">
-
-    <div class="my-3">
-
-    <p>Shop No. 6,7,8, Bosco Centre Near Maria Vihar, Gangapur Rd, Nashik, Maharashtra 422005</p>
-
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119966.09885731817!2d73.69125195840195!3d20.011008034827523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeb9064d77a7f%3A0xddf402cd2ed0295c!2sNEXA%20Gangapur%20Road%20(Seva%20Automotive%20Pvt.%20Ltd.)!5e0!3m2!1sen!2sin!4v1588142692101!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-    </div>
+    <div class="col-sm-12 col-md-6 col-lg-4">
+      <div class="atbd_listing_card atbd_single_listing">
+        <article>
+          <figure class="atbd_listing_thumbnail_area">
+            <div><a href="">
+              <div class="atbd-thumbnail-card card-cover">
+                <div class="atbd-thumbnail-card-front-wrap">
+                    <img class="mb-3 img-fluid" src="assets/images/nexa-nasik-serive-center.jpg" title=""></div>
+              </div>
+              </a></div>
+            <span class="atbd_upper_badge"></span></figure>
+          <div class="atbd_listing_info">
+            <div class="atbd_content_upper">
+              <h4 class="atbd_listing_title"><a href="#">Nashik</a></h4>
+              <div class="atbd_listing_data_list">
+                <ul>
+                  <li>
+                    <p><i class="mdi mdi-home"></i> </span> Seva Automotive Pvt. Ltd, B-17 <br/>
+                      MIDC Ambad
+                      Nashik, Maharashtra 422010 </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="atbd_listing_bottom_content">
+              <div class="atbd_content_left">
+                <div class="atbd_listting_category">
+                    <a href="https://www.google.com/maps?cid=3765376991102539541&_ga=2.252878217.1659344698.1612757946-562890615.1604314184" target="_blank">
+                      <span class="mdi mdi-directions-fork"><i class="fa fa-map-signs"></i> </span>Place
+                    </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
 
     </div>
 
     
 
-    <div class="col-sm-12 col-md-6 col-lg-6">
-
-    <h4>Nagpur</h4>
-
-    <img src="assets/images/nexa-nagpur.jpg" class="resposive-img">
-
-    <div class="my-3">
-
-    <p>Seva Centre, Opp. Kasturchand Park, Kingsway Rd, Nagpur, Maharashtra 440001</p>
-
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59534.82992098112!2d79.0826189!3d21.1553084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4c0e8ae1982c1%3A0x2799eebb2f71f3fb!2sNexa%20Kingsway%20(%20Seva%20Automotive%20Pvt%20Ltd%20)!5e0!3m2!1sen!2sin!4v1588142916020!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-    </div>
-
+    <div class="col-sm-12 col-md-6 col-lg-4">
+      <div class="atbd_listing_card atbd_single_listing">
+        <article>
+          <figure class="atbd_listing_thumbnail_area">
+            <div><a href="">
+              <div class="atbd-thumbnail-card card-cover">
+                <div class="atbd-thumbnail-card-front-wrap">
+                    <img class="mb-3 img-fluid" src="assets/images/nexa-nagpur.jpg" title=""></div>
+              </div>
+              </a></div>
+            <span class="atbd_upper_badge"></span></figure>
+          <div class="atbd_listing_info">
+            <div class="atbd_content_upper">
+              <h4 class="atbd_listing_title"><a href="#">Nagpur</a></h4>
+              <div class="atbd_listing_data_list">
+                <ul>
+                  <li>
+                    <p><i class="mdi mdi-home"></i> </span> Seva Centre, Opp. Kasturchand Park, Kingsway Rd, Nagpur, Maharashtra 440001 </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="atbd_listing_bottom_content">
+              <div class="atbd_content_left">
+                <div class="atbd_listting_category">
+                    <a href="https://www.google.com/maps/place/NEXA+(Seva+Automotive,+Kingsway,+Nagpur)/@21.1537071,79.0842369,14.5z/data=!4m5!3m4!1s0x0:0x2799eebb2f71f3fb!8m2!3d21.1554506!4d79.0827043?hl=en" target="_blank">
+                      <span class="mdi mdi-directions-fork"><i class="fa fa-map-signs"></i> </span>Place
+                    </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
     </div>
 
 	
 
-    <div class="col-sm-12 col-md-6 col-lg-6">
-
-    <h4>Nanded </h4>
-
-    <img src="assets/images/nexa-nanded.jpg" class="resposive-img">
-
-    <div class="my-3">
-
-    <p>Airport Road, Sangvi, Maharashtra 430605</p>
-
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.1569421872746!2d77.33347241544608!3d19.18834638702355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd1d7ad6ad4130b%3A0x6530645b2ca84b73!2sNEXA%20Airport%20Road%20(Seva%20Automotive%20Pvt.%20Ltd.)!5e0!3m2!1sen!2sin!4v1588236318139!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
+    <div class="col-sm-12 col-md-6 col-lg-4">
+      <div class="atbd_listing_card atbd_single_listing">
+        <article>
+          <figure class="atbd_listing_thumbnail_area">
+            <div><a href="">
+              <div class="atbd-thumbnail-card card-cover">
+                <div class="atbd-thumbnail-card-front-wrap">
+                    <img class="mb-3 img-fluid" src="assets/images/nexa-nanded.jpg" title=""></div>
+              </div>
+              </a></div>
+            <span class="atbd_upper_badge"></span></figure>
+          <div class="atbd_listing_info">
+            <div class="atbd_content_upper">
+              <h4 class="atbd_listing_title"><a href="#">Nanded</a></h4>
+              <div class="atbd_listing_data_list">
+                <ul>
+                  <li>
+                    <p><i class="mdi mdi-home"></i> </span> NEXA (Seva Automotive, Airport Road, Sangvi, Nanded)</p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="atbd_listing_bottom_content">
+              <div class="atbd_content_left">
+                <div class="atbd_listting_category">
+                    <a href="https://www.google.com/maps/place/NEXA+(Seva+Automotive,+Airport+Road,+Sangvi,+Nanded)/@19.188346,77.335661,15z/data=!4m5!3m4!1s0x0:0x6530645b2ca84b73!8m2!3d19.1883464!4d77.3356611?hl=en" target="_blank">
+                      <span class="mdi mdi-directions-fork"><i class="fa fa-map-signs"></i> </span>Place
+                    </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
     </div>
-
     </div>
-
-   
-
-    </div>
-
-    
-
-  </div>
-
-  
-
-  
-
-  
-
-</main>
+ </div>
+ </main>
 <script src="assets/js/jquery1.12.0-min.js"></script> 
-
-
-
-
-
 <?php  
-
 require_once('footer.php');
-
 ?>
 

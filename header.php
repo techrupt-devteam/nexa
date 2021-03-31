@@ -54,6 +54,8 @@ $(document).ready(function() {
 <link href="assets/css/Pe-icon-7-stroke.css" rel="stylesheet" type="text/css">
 <!-- Responsive CSS -->
 <link rel="stylesheet" href="assets/css/responsive.css">
+
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -100,7 +102,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </li>
             <li>
               <a href="http://marutiseva.com" class="nexaLogo">
-                <img src="assets/images/arena.svg"></a>
+                <img src="assets/images/arena.svg" style="height:50px"></a>
               </li>
             <li>
               <a href="http://commercial.marutiseva.com" class="nexaLogo">
@@ -200,14 +202,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <ul class='submenu'>
             <!--<li><a href="#">Accident Repair</a></li>-->
             <li><a href="schedule-services.php">Schedule Service / Accident Repair</a></li>
-            <li><a href="our-nexa-workshops.php">Nexa Workshop</a></li>
+            <li><a href="our-nexa-workshops.php">NEXA Workshop</a></li>
             </ul>
         </li>
         <li><a href="#">Value Added Services</a>
         <ul class="normal-sub submenu" style="display: none;">
         	<li><a href="value-added-services.php">Value Added Services</a></li>
-          <li><a href="nexa-insurance.php">Nexa Insurance</a></li>
-            <li><a href="nexa-finance.php">Nexa Finance</a></li>
+          <li><a href="nexa-insurance.php">NEXA Insurance</a></li>
+            <li><a href="nexa-finance.php">NEXA Finance</a></li>
             <!--<li><a href="nexa-genuine-parts.php">Nexa Genuine Parts</a></li>-->
         </ul>
         
@@ -263,7 +265,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          
           <div class="form-group">
           <p style="font-size:12px"><span class="parsley-required">*</span><input type="checkbox" id="FormChkBoxBook6" name="FormChkBox" style="vertical-align: sub;" required="true" data-parsley-required-message="Please indicate that you accept the Terms and Conditions">
-                    I agree that by clicking the ‘Continue’ button below, I am explicitly soliciting a call from Seva Maruti. Or its partners on my ‘Mobile’.</p>
+                    I agree that by clicking the ï¿½Continueï¿½ button below, I am explicitly soliciting a call from Seva Maruti. Or its partners on my ï¿½Mobileï¿½.</p>
           </div>
           
        
@@ -279,7 +281,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </header>
 
 
-<nav class="cd-stretchy-nav">
+<!-- <nav class="cd-stretchy-nav">
     <a class="cd-nav-trigger" href="#0">
 			<span aria-hidden="true"></span>
 		</a>
@@ -289,7 +291,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a href="enquiry.php"><span>Enquiry</span></a></li>
     </ul>
     <span aria-hidden="true" class="stretchy-nav-bg"></span>
-  </nav>
+  </nav> -->
 
 
 

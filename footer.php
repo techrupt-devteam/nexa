@@ -1,8 +1,8 @@
 <script src="assets/js/popper.min.js"></script>
-<script src="assets/lib/js/bootstrap.min.js"></script> 
-<script src="assets/lib/js/bootstrap.bundle.min.js"></script> 
-<script src="assets/js/car-carousel.js" type="text/javascript"></script> 
-<script src="assets/js/megamenu.js"></script> 
+<script src="assets/lib/js/bootstrap.min.js"></script>
+<script src="assets/lib/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/car-carousel.js" type="text/javascript"></script>
+<script src="assets/js/megamenu.js"></script>
 <script defer>
 jQuery(document).ready(function() {
   if ($('.cd-stretchy-nav').length > 0) {
@@ -272,14 +272,14 @@ return false;
 });
 </script>
 <style type="text/css">
-  .parsley-custom-error-message{
-    color: white;
-  }
+.parsley-custom-error-message {
+	color: white;
+}
 </style>
-
 <footer>
 
-  <div class="d-flex justify-content-center">
+<div class="container"> 
+  <!-- <div class="d-flex justify-content-center">
 
     <div class="footer-newletter">
 
@@ -303,164 +303,121 @@ return false;
 
     </div>
 
-  </div>
-
+  </div> -->
+  
   <div class="footer-links container-fluid">
-
     <div class="row">
-
-      <div class="col-lg-3">
-
+      <div class="col-lg-3 col-7">
         <div class="mainlinks">
-
+          <h4> Seva Automotive </h4>
           <ul>
-
             <li><a href="index.php">Home</a></li>
-
             <li><a href="about-us.php">About Us</a></li>
-
             <li><a href="our-team.php">Our Team</a></li>
-
-            <li><a href="our-nexa-showrooms.php">Our Presence</a></li>            
-
+            <li><a href="our-nexa-showrooms.php">Our Presence</a></li>
             <li><a href="feedback.php">Feedback</a></li>
-
+            <li><a href="disclaimer.php">Terms & Conditions</a></li>
           </ul>
-
         </div>
-
       </div>
-
-      
-
-      <div class="col-lg-3">
-
-            <div class="mainlinks">
-
-              <ul>
-
-                <li><a href="#"> Nexa Cars</a>
-
-                  <ul>
-                    <li><a href="s-cross.php">S-Cross</a></li>
-                    <li><a href="ciaz.php">Ciaz</a></li>
-                    <li><a href="baleno.php">Baleno</a></li>
-                    <li><a href="ignis.php">Ignis</a></li>
-                    <li><a href="xl6.php">XL6</a></li>
-
-                  </ul>
-
-                </li>
-
-              </ul>
-
-            </div>
-
-          </div>
-
-      
-
-      <div class="col-lg-3 col-md-3 col-sm-3">
-
+      <div class="col-lg-3 col-5">
         <div class="mainlinks">
-
-          <h4>Workshop  </h4>
-
+          <h4> Products </h4>
           <ul>
-
-            <li><a href="schedule-services.php">Schedule Service / Accident Repair</a></li>
-
-            <li><a href="our-nexa-workshops.php">Nexa Workshop</a></li>
-
-             <li><a href="enquiry.php">Enquire Now</a></li>
-
-            <li><a href="test-drive.php" style=" background:#2e3094; padding:5px 10px"><i class="mdi mdi-steering"></i> Request a Test Drive</a>
-			</li>
-
+            <li>
+              <ul>
+                <li><a href="xl6.php">XL6</a></li>
+                <li><a href="s-cross.php">S-Cross</a></li>
+                <li><a href="ciaz.php">Ciaz</a></li>
+                <li><a href="baleno.php">Baleno</a></li>
+                <li><a href="ignis.php">Ignis</a></li>
+              </ul>
+            </li>
           </ul>
-
         </div>
-
       </div>
-
+      <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class="mainlinks">
+          <h4>Services & Parts </h4>
+          <ul>
+            <li><a href="schedule-services.php">Schedule Service / Accident Repair</a></li>
+            <li><a href="our-nexa-workshops.php">NEXA Workshop</a></li>
+            <li><a href="enquiry.php">Enquire Now</a></li>
+            <li><hr/></li>
+            <li><a href="http://marutiseva.com"> Maruti Suzuki Arena</a></li>
+            <li><a href="https://commercial.marutiseva.com"> Commercial </a></li>
+            <li><a href="https://truevalue.marutiseva.com"> True Value </a></li>
+          </ul>
+        
+        </div>
+      </div>
       <div class="col-lg-3 col-md-3 col-sm-3">
         <div class="mainlinks">
           <h4>Value Added Services </h4>
           <ul>
-          <li><a href="value-added-services.php">Value Added Services</a></li>
-            <li><a href="nexa-insurance.php">Nexa Insurance</a></li>
-            <li><a href="nexa-finance.php">Nexa Finance</a></li>
+            <li><a href="value-added-services.php">Value Added Services</a></li>
+            <li><a href="nexa-insurance.php">NEXA Insurance</a></li>
+            <li><a href="nexa-finance.php">NEXA Finance</a></li>
+            <li><hr/></li>
+            <li><a href="test-drive.php" style=" background:#2e3094; padding:5px 10px">
+              <i class="mdi mdi-steering"></i> Request a Test Drive</a> 
+            </li>
           </ul>
         </div>
       </div>
-
-      
-<div class="col-lg-3 col-md-3 col-sm-12">
-        <div class="mainlinks">
-		    	<!--<ul><li><a href="http://truevalue.marutiseva.com">True Value</a></li></ul>-->
-              <ul><li><a href="http://marutiseva.com"> Maruti Suzuki Arena</a></li></ul>
-			  <ul><li><a href="https://commercial.marutiseva.com"> Commercial Vehicles </a></li></ul>
-         <ul><li><a href="disclaimer.php">Terms & Conditions</a></li></ul>
-        </div>
-      </div>
-    
-
-    <div class="col-lg-3 col-md-3 col-sm-12">
-        <div class="head-office">
-          <h4>Head Office</h4>
-          <ul>
-            <li style="color:#FFF">
-            <p>Address</p>
-            X-46, MIDC,Ambad, Nashik, Maharashtra  422010 Nashik</li>
-            <li><p>Phone Number</p><a href="tel:8390446644">+91 83904 46644 </a></li>
-            <li>
-             <p>Email Id</p>
-            <a href="mailto:enquiry@marutiseva.com">enquiry@marutiseva.com</a></li>
-          </ul>
-        </div>
-      </div>
-
-       <div class="col-lg-3 col-md-3 col-sm-12">
-
-      <div class="social-media">
-
-          <h4>Follow Us on</h4>
-
-          <ul>
-
-            <li><a href="https://www.facebook.com/sevamaruti/?fref=ts" target="_blank"><i class="mdi mdi-facebook"></i></a></li>
-
-            <li><a href="https://twitter.com/sevaauto" target="_blank"><i class="mdi mdi-twitter"></i></a></li>
-
-            <li><a href="https://www.instagram.com/seva_automotive/" target="_blank"><i class="mdi mdi-instagram"></i></a></li>
-
-          </ul>
-
-        </div>  
-
-        </div>    
-
-          </div>
-
-    
-
-  </div>
-
-  <div class="footer-bottom">
-
-    <div class="container-fluid">
-
-      <div class="clearfix">
-
-        <div class=" text-center"> © 2020 Nexa | Design & Developed by <a href="http://hohtechlabs.com/" target="_blank">HOH Tech Labs Pvt. Ltd.</a></div>
-
-      </div>
-
+      <div class="col-lg-3 col-md-3 col-sm-12"> </div>
     </div>
-
   </div>
-
+</div>
+<div class="footer-bottom">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 text-md-left text-center">
+        <div class=""> © 2020-<?=date('Y')?> Seva Automotive | Design & Developed by <a href="#" target="_blank" style="color: #2e3094;padding-left: 0">Techrupt</a></div>
+      </div>
+      <div class="col-md-4 text-md-right text-center">
+        <div class="social-media d-inline-block">
+          <ul>
+            <li><a href="https://www.facebook.com/sevamaruti/?fref=ts" target="_blank"><i class="mdi mdi-facebook"></i></a></li>
+            <li><a href="https://twitter.com/sevaauto" target="_blank"><i class="mdi mdi-twitter"></i></a></li>
+            <li><a href="https://www.instagram.com/seva_automotive/" target="_blank"><i class="mdi mdi-instagram"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 </footer>
-<a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
 
-</body></html>
+<div class="sticky-container d-none d-md-block">
+  <ul class="sticky">
+    <li class="hover-item"> <a href="our-nexa-workshops.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-security-home"></i> <b class="footer-sticky1"> Find Workshop</b></a> </li>
+    <li class="hover-item"> <a href="schedule-services.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-car-wash"></i> <b class="footer-sticky1"> Book Service</b></a> </li>
+    <li class="hover-item"> <a href="online-booking.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-car-sports"></i> <b class="footer-sticky1">Book Your Car</b></a> </li>
+    <li class="hover-item"> <a href="value-added-services.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-cards-playing-outline"></i> <b class="footer-sticky1">VAS Services</b></a> </li>
+    <li class="hover-item"> <a href="enquiry.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-notification-clear-all"></i> <b class="footer-sticky1"> Enquiry </b></a> </li>
+  </ul>
+</div>
+
+<div class="mobile-design d-md-none d-sm-none">
+  <div class="mobile-fixes">
+    <div class="row no-gutters">
+      <div class="col">
+        <a href="schedule-services.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-car-wash"></i> Service</a>
+      </div>
+      <div class="col border-left border-right">
+        <a href="online-booking.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-car-sports"></i> Booking</a>
+      </div>
+      <div class="col border-left border-right">
+        <a href="online-booking.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-car-sports"></i> VAS </a>
+      </div>
+      <div class="col">
+        <a href="enquiry.php" class="hvr-icon-wobble-horizontal"> <i class="mdi mdi-notification-clear-all"></i> Enquiry </a>
+      </div>
+    </div>
+</div>
+</div>
+
+<a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
+</body>
+</html>
