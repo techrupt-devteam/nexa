@@ -374,6 +374,37 @@ include 'header.php';
     </div>
   </div>
 </section>
+<section class="about__section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="img_showroom_1">
+          <div class="tt-img-main">
+            <img src="assets/images/about-index.png" class="img-fluid"/>
+          </div>
+          <div class="tt-img-sub">
+            <img src="assets/images/about-seva-index2.png" class="img-fluid"/>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-7">
+        <div class="content_warp">
+          <h1 class="tt-title">
+            About <span class="tt-defaul-color">NEXA </span>	
+          </h1>
+          <div class="elementor-element-22">
+            <p class="text-justify">
+            Seva Automotive is an authorized multi-location Maruti Suzuki dealership since 1985. Headquartered in Nashik, Seva Automotive family has marked its presence in Nashik, Nagpur, Nanded, Dhule, Wardha & Nandurbar. It also has its presence in rural areas like Igatpuri, Yeola, Hinganghat, Ramtek, Katol with overall 11 Arena Showrooms (including 2 E-outlets and 5 R-Outlets), 3 Nexa Showrooms, 4 Commercial Showrooms, 2 True Value Outlets, 13 Workshops in Maharashtra. </p>
+            <p class="text-justify">We're a full service, state-of-the-art Maruti Suzuki dealership who strives to provide high-quality service, amenities, & experience. With Seva Automotive you are one step closer to owning your dream car. Our goal is to provide our customers with quality cars they can drive right off our showroom floor. </p>
+            <p class="text-justify">Visit nearest Seva Automotive NEXA - Showroom to browse through all the available variants of Maruti Suzuki NEXA Baleno, Ciaz, Ignis, S-Cross & XL6</p>
+            <p class="text-justify">Look through the Hatchback, Sedan, Cross Over & SUV/MUV at our Maruti Suzuki NEXA showrooms and test drive your favourite car today</p>
+            <a href="about-us.php" class="btn btn-dark" style="border-radius: 0px;">read more</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 </main>
 <?php  
 
