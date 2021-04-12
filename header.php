@@ -134,7 +134,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          </ul>
         
         </li>
-        <li><a href="#">Our Products</a>
+        <li><a href="#">Products</a>
           <ul>
             
             <li><a href="#" style="border-bottom:none"></a>

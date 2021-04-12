@@ -344,9 +344,9 @@ return false;
             <li><a href="our-nexa-workshops.php">NEXA Workshop</a></li>
             <li><a href="enquiry.php">Enquire Now</a></li>
             <li><hr/></li>
-            <li><a href="http://marutiseva.com"> Maruti Suzuki Arena</a></li>
-            <li><a href="https://commercial.marutiseva.com"> Commercial </a></li>
-            <li><a href="https://truevalue.marutiseva.com"> True Value </a></li>
+            <li><a href="http://marutiseva.com"> ARENA Cars</a></li>
+            <li><a href="https://commercial.marutiseva.com">  Commercial Vehicles </a></li>
+            <li><a href="https://truevalue.marutiseva.com"> True Value Cars </a></li>
           </ul>
         
         </div>
