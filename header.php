@@ -70,9 +70,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7NG7XN"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div id="preloader">
+<!-- <div id="preloader">
     <div id="preloader__status">&nbsp;</div>
-</div>
+</div> -->
 
 <div class="topbar d-none d-md-block">
 <div class="container-fluid">
@@ -217,16 +217,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li><a href="latest-offers.php">Latest Offers</a></li>
 			<li><a href="enquiry.php">Enquiry</a></li>
-     	<!-- <li><a href="#" class="trueValuelogo" style="background:#FFF">
-            <img src="assets/images/truevalue-logo.png" > </a>
-        </li>
-        <li>
-            <a href="http://marutiseva.com/demo/" class="trueValuelogo" style="background:#FFF"><img src="assets/images/maruti-arena.png" ></a>
-        </li>
-        <li>
-            <a href="http://commercial.marutiseva.com/demo/" class="trueValuelogo" style="background:#FFF"><img src="assets/images/maruti-commercial.png" ></a>
-        </li> -->
-
       </ul>
     </div>
     
@@ -267,31 +257,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p style="font-size:12px"><span class="parsley-required">*</span><input type="checkbox" id="FormChkBoxBook6" name="FormChkBox" style="vertical-align: sub;" required="true" data-parsley-required-message="Please indicate that you accept the Terms and Conditions">
                     I agree that by clicking the �Continue� button below, I am explicitly soliciting a call from Seva Maruti. Or its partners on my �Mobile�.</p>
           </div>
-          
-       
       </div>
       <div class="modal-footer d-flex justify-content-between">
-        <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>-->
         <input type="submit" name="submit" class="btn btn-primary button-purple">
         </form>
       </div>
     </div>
   </div>
-  
 </header>
-
-
-<!-- <nav class="cd-stretchy-nav">
-    <a class="cd-nav-trigger" href="#0">
-			<span aria-hidden="true"></span>
-		</a>
-    <ul>
-      <li><a href="online-booking.php"><span>Book Your Vehicle </span></a></li>
-      <li><a href="schedule-services.php"><span>Book Your Service</span></a></li>
-      <li><a href="enquiry.php"><span>Enquiry</span></a></li>
-    </ul>
-    <span aria-hidden="true" class="stretchy-nav-bg"></span>
-  </nav> -->
 
 
 
